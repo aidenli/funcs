@@ -1,0 +1,1 @@
+define("demoshower/demo_main",[],function(){alert($)});

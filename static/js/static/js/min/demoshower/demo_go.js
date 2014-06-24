@@ -1,0 +1,1 @@
+define("demoshower/demo_go",[],function(a,b,c){c.exports={name:"a",doSomething:function(){alert(2)}}});
